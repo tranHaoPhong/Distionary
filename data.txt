@@ -1,0 +1,331 @@
+apple|Noun|a round fruit with shiny red or green skin that is fairly hard and white inside|I have an apple
+ant|Noun|a small insect that lives in colonies and is known for its strength|Ants work together to build intricate tunnels
+almond|Noun|a nut-like seed with a hard shell and an edible kernel|Almonds are often used in baking and cooking
+agave|Noun|a succulent plant with thick, pointed leaves|Agave nectar is used as a natural sweetener
+acorn|Noun|the nut of an oak tree, typically oval and pointed|Squirrels gather acorns for winter storage
+apricot|Noun|a small, orange fruit with a smooth skin and a single large seed|Apricots are often dried and eaten as a snack
+albatross|Noun|a large seabird with long, narrow wings|Albatrosses can glide for hours without flapping their wings
+anchovy|Noun|a small, oily fish used as a flavoring in cooking|Anchovies are often found on pizza and in Caesar salad dressing
+alpaca|Noun|a domesticated mammal prized for its soft fleece|Alpacas are native to South America
+anglerfish|Noun|a deep-sea fish known for its bioluminescent lure|Anglerfish use their lure to attract prey in the dark depths
+admire|Verb|to regard with respect or warm approval|She admires the way he handles difficult situations
+absorb|Verb|to take in or soak up (liquid, energy, or information)|Plants absorb nutrients from the soil through their roots
+amble|Verb|to walk at a slow, relaxed pace|They amble along the beach, enjoying the sunset.
+banana|Noun|a long curved fruit with a yellow skin and soft sweet flesh|He loves to eat bananas
+bear|Noun|a large, heavy mammal with thick fur and a short tail|We saw a bear in the woods
+bee|Noun|a flying insect that collects nectar and pollen to make honey|Bees buzz around the flowers in the garden
+butterfly|Noun|an insect with colorful wings and a slender body|The butterfly flutters from flower to flower
+blueberry|Noun|a small, round fruit with blue-black skin and sweet flesh|Blueberries are packed with antioxidants
+bison|Noun|a large, shaggy-haired mammal native to North America|Bison once roamed the Great Plains in massive herds
+beaver|Noun|a large rodent with a broad tail and webbed feet|Beavers build dams in rivers and streams
+bok choy|Noun|a type of Chinese cabbage with white stems and dark green leaves|Bok choy is often used in stir-fries and soups
+barracuda|Noun|a predatory fish with a long, slender body and sharp teeth|Barracudas are known for their aggressive hunting behavior
+barnacle|Noun|a small crustacean that attaches itself to rocks and ships|Barnacles are a common sight on rocky shores
+balance|Verb|to keep or put in a steady position so that it does not fall|He balances the books meticulously every month
+breathe|Verb|to take air into the lungs and then expel it, especially as a regular physiological process|We breathe in oxygen and breathe out carbon dioxide
+burst|Verb|to break open or apart suddenly and forcefully|The balloon burst with a loud pop.
+bob|Verb|to move up and down quickly and lightly, especially in a playful manner|The buoy bobs on the surface of the water with each passing wave.
+beckon|Verb|to signal or summon someone with a gesture|She beckons her friend to come closer with a wave of her hand.
+carrot|Noun|a long pointed orange root eaten as a vegetable|Carrots are good for your eyes
+computer|Noun|an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program|I use my computer for work and entertainment
+cat|Noun|a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws|My cat likes to curl up by the fireplace
+cucumber|Noun|a long, green vegetable with watery flesh|She slices cucumbers for a refreshing salad
+caterpillar|Noun|the larval stage of a butterfly or moth|Caterpillars munch on leaves before transforming into butterflies
+cactus|Noun|a succulent plant with thick, fleshy stems and spines|Cacti are adapted to arid environments
+cauliflower|Noun|a vegetable with a compact head of undeveloped white flower buds|She steams cauliflower as a side dish
+chinchilla|Noun|a small rodent with soft, dense fur|Chinchillas are prized for their luxurious fur
+cassowary|Noun|a large flightless bird native to the forests of New Guinea and Australia|Cassowaries have a distinctive casque on their heads
+chameleon|Noun|a lizard capable of changing color to blend in with its surroundings|Chameleons have independently movable eyes
+cuttlefish|Noun|a marine mollusk with a soft body and tentacles|Cuttlefish can change color and texture to camouflage themselves
+crawl|Verb|to move slowly on hands and knees|The baby learns to crawl before walking
+cooperate|Verb|to work together towards a common end or purpose|They cooperate on the project to ensure its success
+caress|Verb|to touch or stroke gently and lovingly|She caresses her pet cat as it purrs contentedly.
+crackle|Verb|to make a series of slight, sharp snapping noises|The fire crackles as it consumes the dry wood.
+dog|Noun|a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice|My dog loves to play fetch
+duck|Noun|a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait|The ducks swam gracefully across the pond
+dolphin|Noun|a marine mammal known for its intelligence and playful behavior|Dolphins leap out of the water in acrobatic displays
+daisy|Noun|a small flower with white petals and a yellow center|Children make daisy chains in the spring
+dandelion|Noun|a weed with bright yellow flowers and deeply toothed leaves|Children blow dandelion seeds for fun
+dragonfruit|Noun|a tropical fruit with pink or yellow skin and white or red flesh|Dragonfruit is also known as pitaya
+dodo|Noun|an extinct flightless bird native to the island of Mauritius|The dodo was hunted to extinction by humans in the 17th century
+dromedary|Noun|a one-humped camel native to North Africa and the Middle East|Dromedaries are well adapted to desert environments
+dugong|Noun|a large marine mammal similar to a manatee|Dugongs are herbivores that graze on seagrass
+dive|Verb|to plunge headfirst into water|He loves to dive into the pool on hot summer days
+discover|Verb|to find (something or someone) unexpectedly or in the course of a search|They discover a hidden cave deep in the forest
+dart|Verb|to move suddenly and quickly in a particular direction|The fish darts away as soon as it senses danger.
+dangle|Verb|to hang or swing loosely|The keys dangle from his fingertips as he walks.
+drift|Verb|to be carried along by currents of air or water|The clouds drift lazily across the sky on a calm afternoon.
+dawdle|Verb|to waste time or move slowly|Stop dawdling and hurry up; we're going to be late!
+elephant|Noun|a very large animal with a long nose called a trunk, large curved tusks, and big floppy ears|Elephants are known for their intelligence and memory
+egg|Noun|a hard-shelled reproductive body produced by a bird, typically intended to hatch into a chick|She cracked an egg into the frying pan
+eggplant|Noun|a glossy purple vegetable used in cooking|She cooks eggplant parmesan for dinner
+eel|Noun|a snake-like fish with a slimy, elongated body|Eels slither through the water with ease
+emu|Noun|a large flightless bird native to Australia|Emus can sprint at speeds up to 30 miles per hour
+elderberry|Noun|a small, dark purple fruit with tart flavor|Elderberries are used to make jam, wine, and syrup
+elephant seal|Noun|a large seal with a long, trunk-like nose|Male elephant seals compete fiercely for mates during breeding season
+explore|Verb|to travel through an unfamiliar area in order to learn about it|They explore the ancient ruins of Machu Picchu
+evolve|Verb|to develop gradually, especially from a simple to a more complex form|Species evolve over time in response to environmental changes
+emerge|Verb|to come out into view|The sun emerges from behind the clouds.
+embrace|Verb|to hold someone closely in one's arms, especially as a sign of affection|They embrace each other tightly after being apart for so long.
+flower|Noun|the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla and a green calyx|She received a bouquet of flowers on her birthday
+frog|Noun|a tailless amphibian with a short squat body and long hind legs for leaping|We heard the croak of frogs in the marsh
+fish|Noun|an aquatic animal with gills and fins|He caught a big fish on his fishing trip
+flamingo|Noun|a tall wading bird with pink plumage and long legs|Flamingos feed by filtering water through their bills
+firefly|Noun|a beetle that produces a flashing light from its abdomen|Fireflies light up the night sky in the summer
+fennec|Noun|a small fox with large ears and a sandy-colored coat|Fennec foxes are native to the Sahara Desert
+fiddlehead|Noun|the curled, edible shoot of a young fern|Fiddleheads are harvested in the spring for culinary use
+falcon|Noun|a bird of prey with a hooked beak and sharp talons|Falcons are known for their incredible speed and agility
+flounder|Noun|a flatfish with both eyes on one side of its head|Flounders are masters of camouflage
+fossa|Noun|a carnivorous mammal native to Madagascar|Fossas are agile climbers and skilled hunters
+frolic|Verb|to play or move about in a cheerful and lively way|The puppies frolic in the grassy meadow
+forage|Verb|to search widely for food or provisions|Bears forage for berries and nuts in the forest
+flicker|Verb|to shine with a wavering light|The candle flame flickers in the drafty room.
+flail|Verb|to wave or swing vigorously, especially one's arms or legs|He flails his arms in a desperate attempt to stay afloat.
+flee|Verb|to run away from a place or situation of danger|They flee from the burning building, seeking safety.
+guitar|Noun|a musical instrument with six or twelve strings that is played by plucking or strumming|He enjoys playing the guitar in his free time
+goat|Noun|a mammal with a coat of hair that produces milk and is often kept for its meat|They have a pet goat named Billy
+giraffe|Noun|a tall, long-necked mammal with spotted coat patterns|Children love to see giraffes at the zoo
+grape|Noun|a small, sweet fruit growing in clusters on vines|He pops a grape into his mouth and savors the burst of flavor
+gazelle|Noun|a slender, graceful antelope found in Africa and Asia|Gazelles can run at speeds up to 60 miles per hour
+gooseberry|Noun|a small, tart fruit growing on a thorny shrub|Gooseberries are used in jams and pies
+guava|Noun|a tropical fruit with green or yellow skin and pink or white flesh|Guava is rich in vitamin C
+ginkgo|Noun|a deciduous tree with distinctive fan-shaped leaves|Ginkgo trees are considered living fossils
+gibbon|Noun|a small ape native to Southeast Asia|Gibbons are known for their loud, melodic calls
+gather|Verb|to come together; assemble or accumulate|They gather around the campfire to share stories
+grow|Verb|to undergo natural development by increasing in size and changing physically|Plants grow towards the sunlight
+glide|Verb|to move smoothly and easily with little effort|The swan glides across the surface of the pond.
+glimmer|Verb|to shine faintly with a wavering light|The stars glimmer in the night sky.
+gaze|Verb|to look steadily and intently, especially in admiration, surprise, or thought|She gazes out the window, lost in thought.
+gallop|Verb|to run fast with a bounding stride|The horse gallops across the open field, mane flying in the wind.
+glimpse|Verb|to catch sight of something briefly or partially|She glimpses a shooting star streaking across the night sky.
+gawk|Verb|to stare openly and stupidly|Passersby gawk at the strange sculpture in the park.
+house|Noun|a building for human habitation, especially one that consists of a ground floor and one or more upper storeys|Their house is located in a quiet neighborhood
+horse|Noun|a large four-legged mammal with hooves, used for riding, racing, and pulling loads|She rode her horse through the fields
+honey|Noun|a sweet, sticky substance made by bees|She spreads honey on her toast in the morning
+hedgehog|Noun|a small spiny mammal with a rounded body|The hedgehog curls into a ball when threatened
+hedge|Noun|a boundary formed by closely growing bushes or shrubs|The hedge provides privacy for the garden
+honeydew|Noun|a sweet melon with pale green flesh and a smooth rind|She slices honeydew melon for breakfast
+hummingbird|Noun|a small bird capable of hovering in mid-air while feeding|Hummingbirds have incredibly fast wingbeats
+haddock|Noun|a marine fish with silver-grey skin and a mild flavor|Haddock is commonly used in fish and chips
+horseshoe crab|Noun|a marine arthropod with a hard shell and a long, pointed tail|Horseshoe crabs are often used as bait in fishing
+hammerhead shark|Noun|a shark with a distinctive hammer-shaped head|Hammerhead sharks have excellent vision due to their wide-set eyes
+hike|Verb|to walk for a long distance, especially across country or in the woods|They hike up the mountain trail to reach the summit
+harvest|Verb|to gather (a crop) as a harvest|They harvest wheat in the late summer
+hurtle|Verb|to move or cause to move at high speed, typically in an uncontrolled manner|The car hurtles down the steep hill.
+hover|Verb|to remain in one place in the air|The helicopter hovers above the landing pad before descending.
+hobble|Verb|to walk in an awkward way, typically because of pain from an injury|He hobbles on crutches after spraining his ankle.
+ice cream|Noun|a sweet frozen food typically eaten as a snack or dessert|Let's go out for some ice cream after dinner
+iguana|Noun|a large lizard with a row of spines along its back and a long tail, native to Central and South America|The iguana basked in the sun on the rock
+impala|Noun|a medium-sized antelope with long, spiral horns|Impalas can leap up to 10 feet in the air
+inuksuk|Noun|a stone landmark used by the Inuit people for navigation|Inuksuit are often found in the Arctic regions
+ibis|Noun|a long-legged wading bird with a curved bill|Ibises are often seen foraging for food in shallow water
+inspect|Verb|to look at closely and critically|The inspector inspects the quality of the goods before shipment
+ignite|Verb|to catch fire or cause to catch fire|The sparks ignite the dry leaves on the forest floor
+intertwine|Verb|to twist or twine together|The vines intertwine to form a dense canopy in the jungle.
+jungle|Noun|an area of land overgrown with dense forest and tangled vegetation, typically in the tropics|They explored the depths of the jungle on their adventure
+jaguar|Noun|a large spotted cat native to South America and Central America, known for its powerful build and distinctive coat pattern|The jaguar is a fierce predator
+jellyfish|Noun|a marine animal with a gelatinous umbrella-shaped bell and trailing tentacles|Watch out for jellyfish while swimming in the ocean
+jackal|Noun|a medium-sized carnivorous mammal related to dogs|Jackals are opportunistic hunters
+jackfruit|Noun|a large tropical fruit with a spiky exterior and sweet yellow flesh|Jackfruit is used as a meat substitute in vegetarian dishes
+jicama|Noun|a crunchy, slightly sweet root vegetable native to Mexico|Jicama is often used in salads and slaws
+jellybean|Noun|a small, bean-shaped candy with a soft gel center|Jellybeans come in a variety of flavors and colors
+jackrabbit|Noun|a hare native to North America with long ears and powerful hind legs|Jackrabbits are known for their fast running speed
+juggle|Verb|to continuously toss and catch objects such as balls or knives|He can juggle three balls at once
+journey|Verb|to travel somewhere|They journey across the desert on camelback
+jostle|Verb|to push, elbow, or bump against (someone) roughly, typically in a crowd|The commuters jostle for space on the crowded train.
+jiggle|Verb|to move up and down or back and forth with small rapid motions|She jiggles the door handle, trying to open it quietly.
+jolt|Verb|to push or shake (someone or something) abruptly and roughly|The sudden stop of the train jolts the passengers forward.
+jaunt|Verb|to go on a short journey for pleasure|They jaunt through the countryside on a sunny afternoon.
+kangaroo|Noun|a large plant-eating marsupial with a long powerful tail and strongly developed hind limbs that enable it to travel by leaping|Kangaroos are native to Australia
+koala|Noun|a small bear-like marsupial with thick fur and large ears, native to Australia|Koalas feed primarily on eucalyptus leaves
+kiwi|Noun|a small, brown, fuzzy fruit with green flesh and black seeds|Kiwi is packed with vitamin C
+kiwifruit|Noun|a small, fuzzy fruit with green flesh and black seeds|Kiwifruit is rich in vitamin C
+kelp|Noun|a type of large seaweed growing in underwater forests|Kelp is harvested for use in food products and fertilizer
+kookaburra|Noun|a large terrestrial kingfisher native to Australia|Kookaburras are known for their distinctive laughing call
+kingfisher|Noun|a brightly colored bird with a long, pointed bill|Kingfishers dive into water to catch fish
+knead|Verb|to work (moistened flour or clay) into dough or paste with the hands|She kneads the dough to make bread
+knit|Verb|to make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or a machine|She knits a scarf for her friend's birthday
+kneel|Verb|to position the body so that one or both knees rest on the ground|He kneels before the altar to pray.
+khangs|Noun|The name of an alumnus|Khangs is a kind person
+lion|Noun|a large tawny-colored cat that lives in prides, found in Africa and northwestern India|The lion is often referred to as the king of the jungle
+leopard|Noun|a large spotted cat similar to a jaguar, but with a more slender build, native to Africa and Asia|The leopard stalked its prey through the jungle
+lemon|Noun|a yellow citrus fruit with a sour taste|She squeezes lemon juice into her tea
+lemur|Noun|a small, agile primate found in Madagascar|Lemurs have large, expressive eyes
+lemongrass|Noun|a fragrant herb with a lemony flavor|Lemongrass is used to add flavor to Asian dishes
+lychee|Noun|a tropical fruit with a rough, red outer skin and sweet, white flesh|Lychees are often enjoyed fresh or in desserts
+lemming|Noun|a small rodent found in Arctic regions|Lemmings are known for their mass migrations
+leap|Verb|to jump or spring a long way, to a great height, or with great force|The deer leaps gracefully over the fence
+linger|Verb|to stay in a place longer than necessary, typically because of a reluctance to leave|The aroma of fresh bread lingers in the kitchen.
+lurch|Verb|to make an abrupt, unsteady, or uncontrolled movement|The boat lurches as it hits a wave, causing everyone on board to grab onto something for support.
+moon|Noun|the natural satellite of the earth, visible (chiefly at night) by reflected light from the sun|They admired the beauty of the full moon
+mouse|Noun|a small rodent with a pointed snout, short limbs, and a long tail, typically regarded as a pest|She set a trap to catch the mouse in the kitchen
+monkey|Noun|a primate with a long tail and agile limbs|The monkey swings from branch to branch
+mango|Noun|a tropical fruit with a sweet, juicy flesh|He slices up a ripe mango for dessert
+mantis|Noun|a predatory insect with long, grasping forelimbs|The praying mantis waits patiently for its prey
+mangosteen|Noun|a tropical fruit with a thick, purple rind and juicy white segments|Mangosteen is known as the "queen of fruits"
+manatee|Noun|a large, slow-moving marine mammal with a rounded body|Manatees are sometimes called "sea cows"
+marmoset|Noun|a small monkey with a long tail and tufted ears|Marmosets are native to South America
+macaw|Noun|a brightly colored parrot native to Central and South America|Macaws are popular pets due to their vibrant plumage
+migrate|Verb|to move from one place to another, especially in order to find work or better living conditions|Birds migrate south for the winter
+meander|Verb|to follow a winding course|The river meanders through the valley, carving out its path over time.
+mosey|Verb|to walk or move in a leisurely manner|He moseys over to the snack table at the party.
+notebook|Noun|a book with blank pages for recording notes or memoranda|She always carries a notebook to jot down her ideas
+nightingale|Noun|a small migratory bird with a melodious song, often associated with the night|The nightingale sang beautifully in the moonlight
+nut|Noun|a hard-shelled seed or fruit with an edible kernel|She snacks on mixed nuts for energy
+noodle|Noun|a strip, ring, or tube of pasta|She cooks noodles for dinner with a savory sauce
+narwhal|Noun|a medium-sized toothed whale with a long spiral tusk|Narwhals inhabit Arctic waters
+nightshade|Noun|a plant family including tomatoes, potatoes, and eggplants|Some nightshade plants are poisonous if ingested
+nasturtium|Noun|a flowering plant with brightly colored flowers and peppery leaves|Nasturtiums are edible and often used in salads
+nutria|Noun|a semi-aquatic rodent with webbed feet and a long tail|Nutrias are sometimes called "river rats"
+navigate|Verb|to plan and direct the course of a ship or aircraft|He navigates through the dense forest using a map and compass
+nourish|Verb|to provide with the food or other substances necessary for growth, health, and good condition|They nourish their bodies with healthy foods
+nuzzle|Verb|to rub or push gently against someone or something with the nose or mouth|The dog nuzzles its owner's hand, seeking affection.
+orange|Noun|a round juicy citrus fruit with a tough bright reddish-yellow rind|He peeled an orange and shared it with his friend
+octopus|Noun|a soft-bodied mollusk with eight sucker-bearing arms, a beaklike mouth, and a sac containing ink|The octopus changed color to blend in with its surroundings
+ocean|Noun|a vast body of saltwater covering much of the Earth's surface|They go scuba diving in the ocean
+orca|Noun|a large black-and-white marine mammal, also known as a killer whale|Orcas are apex predators in the ocean
+otter|Noun|a semiaquatic mammal with a sleek, streamlined body|Otters playfully slide down riverbanks
+ostrich|Noun|a large flightless bird native to Africa|Ostriches are the fastest running birds
+okapi|Noun|a giraffe-like mammal native to the rainforests of Africa|Okapis have distinctive zebra-like stripes on their hindquarters
+oystercatcher|Noun|a shorebird with a long, slender bill used for catching shellfish|Oystercatchers are often seen along coastlines
+opossum|Noun|a marsupial native to the Americas with a prehensile tail|Opossums are often referred to as "playing dead" when threatened
+ocelot|Noun|a small wild cat with distinctive spotted fur|Ocelots are excellent climbers and hunters
+observe|Verb|to notice or perceive (something) and register it as being significant|They observe the behavior of the animals in the wild
+orchestrate|Verb|to arrange or direct the elements of (a situation) to produce a desired effect, especially surreptitiously|She orchestrates a surprise party for her sister's birthday
+penguin|Noun|a large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming underwater|Penguins are known for their distinctive black and white coloration
+panda|Noun|a large bear-like mammal native to China, known for its distinctive black and white markings|Pandas eat bamboo shoots and leaves
+ptit|noun|My school|PTIT is great
+pear|Noun|a sweet fruit with a narrow top and wider bottom|She bites into a juicy pear
+papaya|Noun|a tropical fruit with orange flesh and black seeds|Papayas are rich in vitamins A and C
+paprika|Noun|a spice made from ground, dried peppers|Paprika adds color and flavor to dishes
+peccary|Noun|a pig-like mammal native to the Americas|Peccaries are known for their strong odor
+peacock|Noun|a large bird with colorful plumage and a distinctive fan-shaped tail|Peacocks are known for their elaborate courtship displays
+pangolin|Noun|a scaly mammal with a long tongue for catching insects|Pangolins curl into a ball when threatened
+plant|Verb|to place (a seed, bulb, or plant) in the ground so that it can grow|They plant vegetables in the garden every spring
+plunge|Verb|to jump or dive quickly and energetically|He plunges into the icy water without hesitation
+plod|Verb|to walk doggedly and slowly with heavy steps|The hiker plods up the steep mountain trail.
+prance|Verb|to move with high springy steps|The foal prances playfully in the field, chasing butterflies.
+queen|Noun|the female ruler of an independent state, especially one who inherits the position by right of birth|Queen Elizabeth II is the current monarch of the United Kingdom
+quail|Noun|a small, short-tailed game bird with rounded wings, found mainly in the Old World|The quail ran quickly through the bushes
+quinoa|Noun|a grain-like seed packed with protein|Quinoa is a versatile ingredient in cooking
+quokka|Noun|a small marsupial with a friendly face|Quokkas are native to Australia
+quahog|Noun|a type of large clam found in coastal waters|Quahogs are often used in chowders and clam bakes
+quetzal|Noun|a brightly colored bird native to Central and South America|Quetzals are revered by indigenous cultures for their beautiful feathers
+quench|Verb|to satisfy (one's thirst) by drinking|She quenches her thirst with a cold glass of water
+quiver|Verb|to tremble or shake with a slight rapid motion|The leaves quiver in the gentle breeze
+quicken|Verb|to make or become faster or more rapid|His heartbeat quickens as he nears the finish line.
+rose|Noun|a prickly bush or shrub that typically bears red, pink, yellow, or white fragrant flowers, native to north temperate regions|He gave her a bouquet of roses on Valentine's Day
+rabbit|Noun|a small mammal with long ears, short fluffy tails, and strong hind legs for leaping|The rabbit hopped across the field
+rhinoceros|Noun|a large herbivorous mammal with one or two horns on its snout|Rhinoceroses wallow in mud to cool off
+raspberry|Noun|a small, red fruit with a tart flavor|Raspberries are often used in desserts and jams
+raccoon|Noun|a medium-sized mammal with a masked face and ringed tail|Raccoons are known for their intelligence and dexterity
+raven|Noun|a large black bird with a croaky call|Ravens are highly intelligent and have been observed using tools
+reindeer|Noun|a deer native to the Arctic and subarctic regions|Rudolph is the most famous reindeer of all
+roam|Verb|to move about or travel aimlessly or unsystematically, especially over a wide area|The nomads roam the desert in search of food and water
+race|Verb|to compete with another or others to see who is fastest at covering a set course or achieving an objective|The athletes race towards the finish line.
+recline|Verb|to lie back or lie down in a relaxed position|She reclines in the hammock, enjoying the warmth of the sun.
+snake|Noun|a long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension|Some species of snake are venomous
+squirrel|Noun|a small rodent with a long bushy tail, found in wooded areas|The squirrel stored nuts for the winter
+sunflower|Noun|a tall plant with large yellow flowers that turn to face the sun|Sunflowers brighten up the garden
+seahorse|Noun|a small marine fish with a horse-like head and curled tail|Seahorses swim upright using their dorsal fins
+sloth|Noun|a slow-moving mammal found in Central and South America|Sloths spend most of their time hanging upside down in trees
+squid|Noun|a marine mollusk with a soft body and eight arms|Squid ink is used to add flavor and color to dishes
+saffron|Noun|a spice derived from the dried stigmas of the crocus flower|Saffron is one of the most expensive spices by weight
+salamander|Noun|a small amphibian with a long body and tail|Salamanders are often found near water sources
+sardine|Noun|a small, oily fish often canned for food|Sardines are an important part of many marine ecosystems
+swim|Verb|to propel oneself through water by using the limbs|They swim in the lake every morning for exercise
+sprint|Verb|to run at full speed over a short distance|He sprints to the finish line in the race
+scatter|Verb|to throw in various random directions|The wind scatters the leaves across the yard.
+saunter|Verb|to walk in a slow, relaxed manner, without hurry or effort|They saunter down the street, enjoying the sights of the city.
+shuffle|Verb|to walk by dragging one's feet along the ground|He shuffles his feet awkwardly as he waits in line.
+slump|Verb|to sit, lean, or fall heavily and limply, especially with a bent back|She slumps into the chair after a long day of work.
+stroll|Verb|to walk in a leisurely way|They stroll through the park, enjoying the fresh air and sunshine.
+skitter|Verb|to move lightly and quickly or hurriedly|The leaves skitter across the pavement in the wind.
+scuttle|Verb|to run with quick, hasty steps|The crab scuttles across the sand and disappears into its burrow.
+shimmer|Verb|to shine with a soft, wavering light|The surface of the lake shimmers in the sunlight.
+strut|Verb|to walk with a proud, arrogant bearing|He struts around the room, showing off his new suit.
+skulk|Verb|to move stealthily or furtively|The cat skulks in the shadows, stalking its prey.
+stagger|Verb|to walk or move unsteadily, as if about to fall|He staggers home after a long night of partying.
+scurry|Verb|to move hurriedly with short, quick steps|The mice scurry across the kitchen floor, searching for crumbs.
+swagger|Verb|to walk or behave in a very confident and typically arrogant or aggressive way|He swaggers into the room, demanding attention.
+shamble|Verb|to walk awkwardly or shuffle along|The zombie shambles through the graveyard, arms outstretched.
+stomp|Verb|to walk with heavy forceful steps|He stomps angrily out of the room, slamming the door behind him.
+slink|Verb|to move stealthily or furtively|The cat slinks through the bushes, hunting for mice.
+straggle|Verb|to move untidily or spread out in different directions|The hikers straggle along the trail, taking breaks to admire the view.
+skip|Verb|to move along lightly, stepping from one foot to the other with a hop or bounce|The children skip down the sidewalk, laughing and chatting.
+slouch|Verb|to stand, sit, or move in a lazy, drooping way|He slouches in his chair, staring blankly at the television screen.
+tree|Noun|a woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground|They sat in the shade of a large tree
+tiger|Noun|a large predatory cat with a coat of yellow-orange fur with black stripes|Tigers are apex predators in their habitats
+turtle|Noun|a reptile with a hard shell that lives in water and on land|The turtle basks on a rock in the sun
+toucan|Noun|a brightly colored bird with a large, curved bill|Toucans feed on fruit and insects
+tamarind|Noun|a tropical fruit with a tangy flavor|Tamarind is used in savory and sweet dishes
+tapioca|Noun|a starch extracted from the cassava root|Tapioca pearls are used in bubble tea and pudding
+tapir|Noun|a large herbivorous mammal with a short, prehensile snout|Tapirs are excellent swimmers and divers
+tarsier|Noun|a small primate with large eyes and long fingers|Tarsiers are nocturnal hunters
+tend|Verb|to regularly or frequently behave in a particular way or have a certain characteristic|He tends to be shy around strangers
+thrive|Verb|to grow or develop well or vigorously|Plants thrive in sunlight and nutrient-rich soil
+tiptoe|Verb|to walk quietly and carefully with one's heels raised and the balls of the feet touching the ground|She tiptoes into the room, trying not to wake the sleeping baby.
+twirl|Verb|to spin around rapidly|The dancer twirls across the stage with grace and precision.
+trudge|Verb|to walk slowly with heavy steps, typically because of exhaustion or harsh conditions|They trudge through the deep snow, struggling to keep up.
+toddle|Verb|to walk with short unsteady steps, especially by a young child|The toddler toddles across the room, giggling with delight.
+trot|Verb|to run at a moderate pace, faster than a walk|The dog trots alongside its owner, leash held loosely in hand.
+umbrella|Noun|a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun|She opened her umbrella as soon as it started raining
+unicorn|Noun|a mythical creature resembling a horse with a single straight horn projecting from its forehead|Legends say that unicorns possess magical powers
+umbrella bird|Noun|a large black bird with an umbrella-like crest|The umbrella bird is native to the rainforests of South America
+urchin|Noun|a spiny marine creature related to starfish and sea cucumbers|Sea urchins are sometimes eaten raw as sushi
+umbrellabird|Noun|a large black bird with a distinctive crest|Umbrellabirds are found in the rainforests of Central and South America
+urial|Noun|a wild sheep native to central Asia|Urials have long, curved horns
+unravel|Verb|to investigate and solve or explain (something complicated or puzzling)|She tries to unravel the mystery behind the disappearance
+undulate|Verb|to move with a smooth wavelike motion|The fields of wheat undulate in the breeze.
+violin|Noun|a stringed musical instrument of treble pitch, played with a horsehair bow|He learned to play the violin at a young age
+vulture|Noun|a large bird of prey with a bald head and a keen sense of smell, feeding mainly on carrion|Vultures circle high in the sky in search of food
+violet|Noun|a small purple or blue flowering plant|Violets add a splash of color to the garden
+vanilla|Noun|a flavoring extracted from orchids|She adds vanilla extract to the cake batter
+vendace|Noun|a small freshwater fish native to northern Europe|Vendace are often smoked or pickled
+vole|Noun|a small rodent resembling a mouse|Voles are herbivores that feed on grasses and seeds
+viper|Noun|a venomous snake with hinged fangs|Vipers are ambush predators that strike quickly at their prey
+venture|Verb|to dare to do something or go somewhere that may be dangerous or unpleasant|They venture into the unknown territory cautiously
+vanish|Verb|to disappear suddenly and completely|The magician makes the rabbit vanish into thin air
+vibrate|Verb|to move or cause to move continuously and rapidly to and fro|The phone vibrates in her pocket, signaling a new message.
+vault|Verb|to jump over something using one's hands or a pole for support|The gymnast vaults over the high bar with grace and precision.
+whale|Noun|a very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing|Whales are known for their intelligence and social behavior
+wolf|Noun|a wild carnivorous mammal, closely related to the dog, known for its pack behavior and haunting howl|The wolf's howl echoed through the forest
+walnut|Noun|a wrinkled edible seed enclosed in a hard shell|Walnuts are a good source of omega-3 fatty acids
+walrus|Noun|a large marine mammal with long tusks and thick blubber|Walruses use their tusks to haul themselves out of the water
+wolverine|Noun|a stocky carnivorous mammal with thick fur|Wolverines are known for their strength and ferocity
+wombat|Noun|a burrowing marsupial native to Australia|Wombats have cube-shaped feces
+wildebeest|Noun|a large African antelope with a shaggy mane and curved horns|Wildebeests undertake annual migrations in search of food and water
+wander|Verb|to walk or move in a leisurely, casual, or aimless way|They wander through the forest, enjoying the sights and sounds
+whisper|Verb|to speak very softly using one's breath without one's vocal cords|They whisper secrets to each other in the dark
+whisk|Verb|to move (someone or something) with a quick, sudden motion|She whisked the tablecloth off the table in one swift movement.
+whistle|Verb|to produce a clear, high-pitched sound by forcing breath through a small hole between one's lips or teeth|He whistles a cheerful tune while he works.
+wiggle|Verb|to move with short, quick, irregular movements from side to side|The puppy wiggles its tail in excitement.
+waddle|Verb|to walk with short steps and a clumsy swaying motion|The ducklings waddle behind their mother in a neat row.
+wriggle|Verb|to twist and turn with quick writhing movements|The snake wriggles through the grass, searching for prey.
+wade|Verb|to walk with effort through water or another liquid or viscous substance|They wade through the shallow stream, careful not to slip on the rocks.
+xylophone|Noun|a musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets|The xylophone produces a melodic sound
+xylophonist|Noun|a person who plays the xylophone, a musical instrument with wooden bars of different lengths|The xylophonist performed a captivating solo
+xyris|Noun|a genus of flowering plants with yellow star-shaped blooms|The xyris adds a splash of color to the garden
+xerus|Noun|a small ground squirrel found in Africa|Xerus species dig burrows in sandy soil
+xenops|Noun|a small bird with a distinctive curved bill found in Central and South America|Xenops species forage for insects on tree trunks
+ximenia|Noun|a tropical fruit-bearing shrub with edible berries|Ximenia fruits are rich in oils and used in traditional medicine
+xenarthra|Noun|an order of placental mammals including sloths, anteaters, and armadillos|Xenarthrans are characterized by their unique skeletal features
+yacht|Noun|a medium-sized sailboat equipped for cruising or racing|They sailed their yacht along the coast
+yak|Noun|a large domesticated wild ox with shaggy hair and large curved horns, native to the Himalayas and Tibet|Yaks are used as pack animals in mountainous regions
+yam|Noun|a starchy tuberous root|She fries yams as a side dish
+yellowjacket|Noun|a type of wasp with distinctive yellow and black markings|Yellowjackets can be aggressive when threatened
+yellowthroat|Noun|a small songbird with a yellow throat patch|Yellowthroats flit among dense vegetation in wetlands
+yellowhammer|Noun|a small bird with yellow and brown plumage|Yellowhammers are known for their cheerful song
+yellow-bellied marmot|Noun|a ground-dwelling rodent with yellowish fur|Marmots are known for their loud, whistling calls
+yellow-eyed penguin|Noun|a penguin species with distinctive yellow eyes|Yellow-eyed penguins are native to New Zealand
+yearn|Verb|to have an intense feeling of longing for something|She yearns for adventure and excitement in her life
+yield|Verb|to produce or provide (a natural, agricultural, or industrial product)|The farm yields a bountiful harvest of fruits and vegetables each year.
+yawn|Verb|to involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom|She yawns and stretches after a long day at work.
+zebra|Noun|an African wild horse with black-and-white stripes and an erect mane|Zebras are known for their distinctive black and white striped coats
+zeppelin|Noun|a large rigid airship consisting of a cylindrical metal framework covered in fabric|Zeppelins were once a popular mode of air travel
+zucchini|Noun|a green summer squash with a mild flavor|Zucchini can be grilled, sautéed, or baked
+zander|Noun|a freshwater fish native to Europe and western Asia|Zander is prized by anglers for its firm, white flesh
+zebu|Noun|a domesticated bovine with a hump on its shoulders|Zebus are well adapted to hot climates and are often kept as livestock
+zip|Verb|to move with a high-speed humming or buzzing sound|The hummingbird zips from flower to flower, sipping nectar.
+zigzag|Verb|to move in a zigzag course|The lightning zigzags across the sky during the storm.
+zoom|Verb|to move or travel quickly|The car zooms down the highway, leaving a trail of dust behind.
